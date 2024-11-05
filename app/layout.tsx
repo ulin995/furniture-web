@@ -3,9 +3,7 @@ import "./css/style.css";
 import {Inter} from "next/font/google";
 import "@/config/firebase-config";
 import Navbar from '@/components/Navbar'
-import Header3 from '@/components/header_3'
 import {navItems} from "@/models/Test";
-import { Footer } from 'aiwebs-ui-components'
 import Footer3 from '@/components/footer_3'
 
 const inter = Inter({
@@ -50,8 +48,10 @@ const footerConfig = {
 
 const footerConfig3 = {
     title:{value:'Elmar Furniture'},
-    footerTip:{value:'We build readymade websites, mobile applications, and elaborate online business services.'},
-    footerTip2:{value:'Copyright © 2024 Elmar Furniture. All rights reserved.'},
+    footerTip1:{value:'Address: 2879A lakeshore Blvd. W., Etobicoke, ON M8V 1J1'},
+    footerTip2:{value:'Tel: 416-259-5538'},
+    footerTip3:{value:'EMT: furniture.elmar@gmail.com'},
+    footerTip4:{value:'Copyright © 2024 Elmar Furniture. All rights reserved.'},
     footerItems:{
         value:[
             {

@@ -4,8 +4,10 @@ import Link from 'next/link';
 
 const Footer3 = (props:{
     title:{value:string},
-    footerTip:{value:string},
+    footerTip1:{value:string},
     footerTip2:{value:string},
+    footerTip3:{value:string},
+    footerTip4:{value:string},
     footerItems:{value:{id:number,value:{footer:string,footerChildren:{id:number,value:{label:string,link:string}}[]}}[]},
     followUs:{value:{id:number,value:{icon:React.ReactNode,label:string,link:string}}[]}
 }) => {
@@ -20,7 +22,13 @@ const Footer3 = (props:{
               <span className="text-2xl font-bold text-white">{props.title.value}</span>
             </div>
             <p className="mb-6 text-sm">
-              {props.footerTip.value}
+              {props.footerTip1.value}
+            </p>
+            <p className="mb-6 text-sm">
+              {props.footerTip2.value}
+            </p>
+            <p className="mb-6 text-sm">
+              {props.footerTip3.value}
             </p>
           </div>
             {
@@ -59,7 +67,7 @@ const Footer3 = (props:{
 
         {/* 版权信息 */}
         <div className="pt-8 mt-12 text-center border-t border-gray-700">
-          <p>{props.footerTip2.value}</p>
+          <p>{props.footerTip4.value}</p>
         </div>
       </div>
     </footer>
