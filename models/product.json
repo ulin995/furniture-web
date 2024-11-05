@@ -1,0 +1,277 @@
+[
+    {
+        "menuId": "Modern",
+        "menuName": "Modern",
+        "key": "modern",
+        "goods": [
+            {
+                "id": "modern_001",
+                "title": "Modern Sofa",
+                "category": "Living Room",
+                "image": "/images/furniture-img/p-01.png"
+            },
+            {
+                "id": "modern_002",
+                "title": "Designer Chair",
+                "category": "Seating",
+                "image": "/images/furniture-img/p-08.png"
+            },
+            {
+                "id": "modern_003",
+                "title": "Glass Coffee Table",
+                "category": "Living Room",
+                "image": "/images/furniture-img/p-03.png"
+            },
+            {
+                "id": "modern_004",
+                "title": "Contemporary Desk",
+                "category": "Office",
+                "image": "/images/furniture-img/p-05.png"
+            },
+            {
+                "id": "modern_005",
+                "title": "Minimalist Bookshelf",
+                "category": "Storage",
+                "image": "/images/furniture-img/p-02.png"
+            },
+            {
+                "id": "modern_006",
+                "title": "Modern TV Stand",
+                "category": "Entertainment",
+                "image": "/images/furniture-img/p-07.png"
+            },
+            {
+                "id": "modern_007",
+                "title": "Accent Cabinet",
+                "category": "Storage",
+                "image": "/images/furniture-img/p-04.png"
+            },
+            {
+                "id": "modern_008",
+                "title": "Platform Bed",
+                "category": "Bedroom",
+                "image": "/images/furniture-img/p-09.png"
+            },
+            {
+                "id": "modern_009",
+                "title": "Bar Stools Set",
+                "category": "Kitchen",
+                "image": "/images/furniture-img/p-06.png"
+            },
+            {
+                "id": "modern_010",
+                "title": "Console Table",
+                "category": "Entryway",
+                "image": "/images/furniture-img/p-11.png"
+            }
+        ]
+    },
+    {
+        "menuId": "Nature",
+        "menuName": "Nature",
+        "key": "nature",
+        "goods": [
+            {
+                "id": "nature_001",
+                "title": "Wooden Dining Table",
+                "category": "Dining Room",
+                "image": "/images/furniture-img/p-12.png"
+            },
+            {
+                "id": "nature_002",
+                "title": "Rattan Armchair",
+                "category": "Outdoor",
+                "image": "/images/furniture-img/p-10.png"
+            },
+            {
+                "id": "nature_003",
+                "title": "Bamboo Shelf",
+                "category": "Storage",
+                "image": "/images/furniture-img/p-03.png"
+            },
+            {
+                "id": "nature_004",
+                "title": "Rustic Bed Frame",
+                "category": "Bedroom",
+                "image": "/images/furniture-img/p-08.png"
+            },
+            {
+                "id": "nature_005",
+                "title": "Wicker Storage Basket",
+                "category": "Organization",
+                "image": "/images/furniture-img/p-05.png"
+            },
+            {
+                "id": "nature_006",
+                "title": "Wooden Bench",
+                "category": "Entryway",
+                "image": "/images/furniture-img/p-01.png"
+            },
+            {
+                "id": "nature_007",
+                "title": "Natural Wood Side Table",
+                "category": "Living Room",
+                "image": "/images/furniture-img/p-07.png"
+            },
+            {
+                "id": "nature_008",
+                "title": "Bamboo Room Divider",
+                "category": "Decor",
+                "image": "/images/furniture-img/p-04.png"
+            },
+            {
+                "id": "nature_009",
+                "title": "Plant Stand",
+                "category": "Accessories",
+                "image": "/images/furniture-img/p-09.png"
+            }
+        ]
+    },
+    {
+        "menuId": "Comfort",
+        "menuName": "Comfort",
+        "key": "comfort",
+        "goods": [
+            {
+                "id": "comfort_001",
+                "title": "Plush Recliner",
+                "category": "Living Room",
+                "image": "/images/furniture-img/p-06.png"
+            },
+            {
+                "id": "comfort_002",
+                "title": "Memory Foam Ottoman",
+                "category": "Seating",
+                "image": "/images/furniture-img/p-11.png"
+            },
+            {
+                "id": "comfort_003",
+                "title": "Upholstered Headboard",
+                "category": "Bedroom",
+                "image": "/images/furniture-img/p-02.png"
+            },
+            {
+                "id": "comfort_004",
+                "title": "Massage Chair",
+                "category": "Specialty",
+                "image": "/images/furniture-img/p-12.png"
+            },
+            {
+                "id": "comfort_005",
+                "title": "Cushioned Dining Chairs",
+                "category": "Dining Room",
+                "image": "/images/furniture-img/p-10.png"
+            },
+            {
+                "id": "comfort_006",
+                "title": "Bean Bag Chair",
+                "category": "Kids Room",
+                "image": "/images/furniture-img/p-03.png"
+            },
+            {
+                "id": "comfort_007",
+                "title": "Reading Nook Chair",
+                "category": "Study",
+                "image": "/images/furniture-img/p-08.png"
+            },
+            {
+                "id": "comfort_008",
+                "title": "Ergonomic Office Chair",
+                "category": "Office",
+                "image": "/images/furniture-img/p-05.png"
+            }
+        ]
+    },
+    {
+        "menuId": "Luxury",
+        "menuName": "Luxury",
+        "key": "luxury",
+        "goods": [
+            {
+                "id": "luxury_001",
+                "title": "Italian Leather Sofa",
+                "category": "Living Room",
+                "image": "/images/furniture-img/p-01.png"
+            },
+            {
+                "id": "luxury_002",
+                "title": "Crystal Display Cabinet",
+                "category": "Storage",
+                "image": "/images/furniture-img/p-07.png"
+            },
+            {
+                "id": "luxury_003",
+                "title": "Marble Dining Table",
+                "category": "Dining Room",
+                "image": "/images/furniture-img/p-04.png"
+            },
+            {
+                "id": "luxury_004",
+                "title": "Designer Chaise Lounge",
+                "category": "Living Room",
+                "image": "/images/furniture-img/p-09.png"
+            },
+            {
+                "id": "luxury_005",
+                "title": "Executive Desk",
+                "category": "Office",
+                "image": "/images/furniture-img/p-06.png"
+            },
+            {
+                "id": "luxury_006",
+                "title": "Velvet Accent Chair",
+                "category": "Seating",
+                "image": "/images/furniture-img/p-11.png"
+            },
+            {
+                "id": "luxury_007",
+                "title": "Gold Mirror Console",
+                "category": "Decor",
+                "image": "/images/furniture-img/p-02.png"
+            }
+        ]
+    },
+    {
+        "menuId": "Homewares",
+        "menuName": "Homewares",
+        "key": "homewares",
+        "goods": [
+            {
+                "id": "homewares_001",
+                "title": "Storage Ottoman",
+                "category": "Multi-function",
+                "image": "/images/furniture-img/p-12.png"
+            },
+            {
+                "id": "homewares_002",
+                "title": "Wall Mounted Shelf",
+                "category": "Storage",
+                "image": "/images/furniture-img/p-10.png"
+            },
+            {
+                "id": "homewares_003",
+                "title": "Coat Rack Stand",
+                "category": "Organization",
+                "image": "/images/furniture-img/p-03.png"
+            },
+            {
+                "id": "homewares_004",
+                "title": "Shoe Cabinet",
+                "category": "Storage",
+                "image": "/images/furniture-img/p-08.png"
+            },
+            {
+                "id": "homewares_005",
+                "title": "Kitchen Island Cart",
+                "category": "Kitchen",
+                "image": "/images/furniture-img/p-05.png"
+            },
+            {
+                "id": "homewares_006",
+                "title": "Bathroom Vanity",
+                "category": "Bathroom",
+                "image": "/images/furniture-img/p-01.png"
+            }
+        ]
+    }
+]

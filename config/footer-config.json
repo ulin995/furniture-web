@@ -1,0 +1,29 @@
+[
+  {
+    "footer": "Components",
+    "footerChildren": [
+      "Elements",
+      "Forms",
+      "Commerces",
+      "Navigation"
+    ]
+  },
+  {
+    "footer": "Contacts",
+    "footerChildren": [
+      "Github",
+      "Facebook",
+      "Twitter",
+      "LinkedIn"
+    ]
+  },
+  {
+    "footer": "Customization",
+    "footerChildren": [
+      "Settings",
+      "Themes",
+      "Plugins",
+      "LinkedIn"
+    ]
+  }
+]

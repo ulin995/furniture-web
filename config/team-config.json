@@ -1,0 +1,24 @@
+{
+  "title": "Professional team",
+  "subTitle": "Meat the best team in world",
+  "teamMember": [
+    {
+      "img": "/images/demo_profile_01.png",
+      "name": "Patrick Sebastien",
+      "position": "Developer",
+      "description": "Patrick Sébastien, born November 14, 1953 in Brive-la-Gaillarde, is an imitator."
+    },
+    {
+      "img": "/images/demo_profile_02.png",
+      "name": "Jean Castux",
+      "position": "Founder",
+      "description": "Jean Castux is an imitator, humorist, actor, born November 14, 1953 in Pontivy."
+    },
+    {
+      "img": "/images/demo_profile_03.png",
+      "name": "Thierry Halliday",
+      "position": "CTO",
+      "description": "Thierry Halliday, born November 4, 1993 in Saint hilaire de riez, is css specialist."
+    }
+  ]
+}

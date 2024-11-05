@@ -1,0 +1,69 @@
+{
+  "Constants": {
+    "GMEETALK": "GmeeTalk"
+  },
+  "Metadata": {
+    "title": "GmeeAI",
+    "description": "Enhance your language skills with GmeeTalk, your private AI language tutor."
+  },
+  "header": {
+    "home": "Home",
+    "about": "About us",
+    "careers": "Careers"
+  },
+  "footer": {
+    "socialMedia": "Social Media",
+    "company": "Company",
+    "download": "Download",
+    "douyin": "Douyin",
+    "bilibili": "Bilibili",
+    "weixin": "Weixin",
+    "xhs": "Xiaohongshu",
+    "careers": "Careers",
+    "about": "About us",
+    "ios": "iOS",
+    "android": "Android",
+    "apk": "GmeeTalk APK"
+  },
+  "Home": {
+    "title": "AI Powered IELTS Speaking Practice & Mock Test",
+    "yourPrivate": ", your private ",
+    "aiLanguageTutor": "AI Language Tutor",
+    "subtitle": "GmeeTalk provides an innovative solution for IELTS speaking preparation, leveraging advanced AI technology to offer personalized practice sessions and mock tests.",
+    "features": {
+      "title": "Core feature",
+      "description": "GmeeTalk is ready whenever and wherever you are. Enhance your language skills by engaging with GmeeTalk in real-life conversations and receiving instant feedback.",
+      "feature1": {
+        "title": "Comprehensive IELTS Speaking Practice",
+        "description": "Engage in extensive practice sessions tailored to your needs, covering Parts 1, 2, and 3 of the IELTS speaking test. Our AI-driven app provides you with up-to-date topics to help you develop your speaking skills in various scenarios."
+      },
+      "feature2": {
+        "title": "Realistic Mock Interviews",
+        "description": "Experience realistic IELTS speaking mock tests that simulate the conditions of the actual exam. Our AI technology replicates the test environment, helping you familiarize yourself with the test format and build confidence. "
+      },
+      "feature3": {
+        "title": "Personalized Test Reports",
+        "description": "Receive detailed, personalized reports after each practice session and mock test. Our AI analyzes your performance in pronunciation, fluency, grammar, and vocabulary, helping you enhance your speaking skills and achieve your target IELTS score."
+      }
+    },
+    "watchTheFullVideo": "Watch the full video ({seconds} seconds)"
+  },
+  "Careers": {
+    "metadata": {
+      "title": "GmeeAI - Careers"
+    },
+    "title": "Come join us!",
+    "subtitle": "We're building an immersive AI Language Learning platform.",
+    "openPositions": "Open Positions ({count})",
+    "noVacancies": "No vacancies available."
+  },
+  "About": {
+    "metadata": {
+      "title": "GmeeAI - About"
+    },
+    "title": "Mission",
+    "subtitle": "Our mission is to provide an immersive AI Language Learning platform that enriches and streamlines the learning process.",
+    "email": "Email",
+    "ourOffice": "Our Office"
+  }
+}

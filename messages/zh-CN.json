@@ -1,0 +1,70 @@
+{
+  "Constants": {
+    "GMEETALK": "GmeeTalk"
+  },
+  "Metadata": {
+    "title": "GmeeAI",
+    "description": "用GmeeTalk提升你的语言技能，你的私人AI语言导师。"
+  },
+  "header": {
+    "home": "首页",
+    "about": "关于我们",
+    "careers": "招聘"
+  },
+  "footer": {
+    "socialMedia": "社交媒体",
+    "company": "公司",
+    "download": "下载",
+    "douyin": "抖音",
+    "bilibili": "哔哩哔哩",
+    "weixin": "微信",
+    "xhs": "小红书",
+    "careers": "招聘",
+    "about": "关于我们",
+    "ios": "iOS",
+    "android": "安卓",
+    "apk": "GmeeTalk APK"
+  },
+  "Home": {
+    "title": "GmeeTalk助力个性化雅思口语备考，AI口语对话让学习更专业、更灵活、更智能。",
+    "yourPrivate": "助力个性化雅思口语备考，",
+    "aiLanguageTutor": "AI口语对话",
+    "zhTrailing": "让学习更专业、更灵活、更智能。",
+    "subtitle": "GmeeTalk，提供一站式雅思口语备考解决方案，利用先进的AI技术打造个性化口语练习和模拟考试。与GmeeTalk一起提升您的口语能力。",
+    "features": {
+      "title": "无限制的AI对话练习",
+      "description": "无论何时何地，GmeeTalk都准备好为你服务。通过与GmeeTalk进行真实场景对话并获得即时反馈来提升你的语言能力。",
+      "feature1": {
+        "title": "雅思口语练习 多场景AI真实对话",
+        "description": "GmeeTalk依托Ai技术，为您提供最新的题库和互动练习，涵盖雅思口语测试的第1部分、第2部分和第3部分，帮助您在各种场景中提升口语技能，确保您为实际考试做好充分准备。"
+      },
+      "feature2": {
+        "title": "仿真模拟考试 个性化分析报告",
+        "description": "GmeeTalk模拟雅思口语考试全流程与结构，帮助您熟悉考试形式并建立信心。您将在每次模拟考试后收到详细的报告，分析您的发音、流利度、语法和词汇，并提供反馈和建议，帮助您提升口语水平，助力达到您的雅思目标成绩。"
+      },
+      "feature3": {
+        "title": "24小时随时待命 灵活高效备考",
+        "description": "通过GmeeTalk随时随地在线练习，适配您忙碌的日程安排，让您最大限度地利用备考时间，解锁高质量的雅思备考。"
+      }
+    },
+    "watchTheFullVideo": "观看完整视频 ({seconds} 秒)"
+  },
+  "Careers": {
+    "metadata": {
+      "title": "GmeeAI - 招聘"
+    },
+    "title": "加入我们！",
+    "subtitle": "我们正在打造一个沉浸式的AI语言学习平台。",
+    "openPositions": "开放职位 ({count})",
+    "noVacancies": "暂无空缺职位。"
+  },
+  "About": {
+    "metadata": {
+      "title": "GmeeAI - 关于"
+    },
+    "title": "我们的愿景",
+    "subtitle": "我们的期望是提供一个沉浸式的AI语言学习平台，既能丰富学习体验，又能优化学习流程",
+    "email": "电子邮件",
+    "ourOffice": "办公室"
+  }
+}
